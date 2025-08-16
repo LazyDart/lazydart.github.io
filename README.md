@@ -1,58 +1,5 @@
 # Personal Website + Blog Template (GitHub Pages + Jekyll)
 
-This repo is a **zero-JavaScript**, **ready-to-publish** personal site that combines:
-
-* A **homepage** with intro + recent posts
-* A **blog** with pagination and tags
-* **About** and **Projects** pages
-* **RSS feed** & **sitemap** for discoverability
-* **Responsive design** that works on mobile
-
-Everything here is built with **GitHub Pages** and **Jekyll**—no hosting, no backend, no manual builds.
-
----
-
-## 🚀 Quick Start
-
-1. **Create a repo**
-
-   * If this is your main site, name it:
-
-     ```
-     yourusername.github.io
-     ```
-
-     It will appear at `https://yourusername.github.io`.
-   * If it’s not your main site, pick any name and later enable it under **Settings → Pages**.
-
-2. **Copy the files** into your repo.
-
-3. **Edit `_config.yml`**:
-
-   * Change `title`, `tagline`, `url`, `author` fields.
-   * Update navigation links if you add/remove pages.
-
-4. **Add your profile picture** (optional):
-   Replace `assets/img/profile.jpg`.
-
-5. **Write your first post**:
-   In `_posts/` create `YYYY-MM-DD-my-title.md`:
-
-   ```markdown
-   ---
-   title: "My First Post"
-   tags: [Intro]
-   ---
-   Hello world, this is my first blog post.
-   ```
-
-6. **Commit & push to `main`**.
-
-   * GitHub Pages will build it automatically.
-   * Check the URL after 1–2 minutes.
-
----
-
 ## 📁 Folder Guide
 
 | Path                   | Purpose                                                 |
