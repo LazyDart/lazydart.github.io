@@ -22,8 +22,6 @@ nav:
 
 # Blog options
 permalink: /blog/:year/:month/:day/:title/
-paginate: 5
-paginate_path: "/blog/page:num/"
 
 # Plugins supported by GitHub Pages (safe list)
 plugins:
