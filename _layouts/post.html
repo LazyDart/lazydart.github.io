@@ -14,16 +14,14 @@ layout: default
   </div>
 
   <!-- Comments section -->
-  <h2>Comments</h2>
-  <div id="cusdis_thread"
+{%- if page.comments != false and jekyll.environment == "production" and page.id -%}
+  <div
+    id="cusdis_thread"
     data-host="https://cusdis.com"
-    data-app-id="30aba946-0abd-43bd-8b69-55960fab2e0b"
-    data-page-id="{{ page.url }}"
-    data-page-url="{{ site.url }}{{ page.url }}"
-    data-page-title="{{ page.title }}">
-  </div>
-  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-
-  <hr>
-  <p><a href="/blog/">← Back to Blog</a></p>
-</article>
+    data-app-id="{{ site.cusdis_app_id }}"
+    data-page-id="{{ page.id }}"
+    data-page-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    data-page-title="{{ page.title | escape }}"
+  ></div>
+  <script defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{%- endif -%}

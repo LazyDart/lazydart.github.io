@@ -1,5 +1,9 @@
 # Personal Website + Blog Template (GitHub Pages + Jekyll)
 
+## Jekyll testing
+Run `bundle exec jekyll serve` in terminal.
+
+
 ## 📁 Folder Guide
 
 | Path                   | Purpose                                                 |

@@ -23,6 +23,9 @@ nav:
 # Blog options
 permalink: /blog/:year/:month/:day/:title/
 
+
+theme: minima
+
 # Plugins supported by GitHub Pages (safe list)
 plugins:
   - jekyll-paginate
