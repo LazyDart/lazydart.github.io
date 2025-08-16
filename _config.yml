@@ -1,0 +1,60 @@
+title: "Your Name"
+tagline: "ML Engineer — personal site + blog"
+url: "https://www.milosztkacz.pl"     # change this to your final URL
+baseurl: ""                               # keep empty for a user/organization site
+author:
+  name: "Your Name"
+  email: "you@example.com"
+  github: yourusername
+  linkedin: your-link
+  twitter: your-handle
+
+# Navigation (order matters)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
+# Blog options
+permalink: /blog/:year/:month/:day/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Plugins supported by GitHub Pages (safe list)
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Markdown + code blocks
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+# Build settings to include assets
+include:
+  - _pages
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Defaults so you don't repeat front matter everywhere
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page

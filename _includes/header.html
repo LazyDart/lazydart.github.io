@@ -1,0 +1,10 @@
+<div class="container header-wrap">
+  <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  <nav class="site-nav">
+    {% for item in site.nav %}
+      <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{{ item.url | relative_url }}">
+        {{ item.title }}
+      </a>
+    {% endfor %}
+  </nav>
+</div>
