@@ -1,0 +1,18 @@
+/* This is like a base stylesheet in Django */
+
+html, body {
+  margin: 0;              /* remove default browser spacing */
+  padding: 0;
+  font-family: sans-serif; /* default font */
+  background: #f9f9f9;    /* site-wide background */
+  color: #333;            /* default text color */
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
