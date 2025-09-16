@@ -1,7 +1,7 @@
 /* app/blog/[slug]/page.module.css */
 .testdiv {
-    height: 800;
-    width: 1200;
+    height: 800px;
+    width: 1200px;
 }
 .postTitle[data-fit="ready"] {
   opacity: 1;
