@@ -13,7 +13,8 @@
 		"next": "^15.1.7",
 		"next-mdx-remote": "^5.0.0",
 		"react": "^19.0.0",
-		"react-dom": "^19.0.0"
+		"react-dom": "^19.0.0",
+		"textfilljs": "^1.0.3-a"
 	},
 	"devDependencies": {
 		"@types/node": "^22.13.4",

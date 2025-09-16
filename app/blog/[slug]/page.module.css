@@ -1,33 +1,8 @@
 /* app/blog/[slug]/page.module.css */
-.postTitle {
-  font-size: var(--title-size, 1.6rem);
-  line-height: 1.1;
-  text-wrap: balance;
-  overflow-wrap: normal;
-  word-break: normal;
-  hyphens: none;
-
-  /* start hidden to avoid pop */
-  opacity: 0;
-
-  /* (optional) reserve space to reduce layout shift while hidden */
-  min-block-size: calc(var(--lines, 2) * 1.1 * var(--title-size, 1.6rem));
-
-  text-align: center;
-  margin-inline: auto;
-  display: block;
+.testdiv {
+    height: 800;
+    width: 1200;
 }
-@media (min-width: 768px) {
-  .postTitle {
-    --fit-min: 8rem;
-    --fit-max: 15rem;     /* go large on desktop */
-    --fit-lines: 2;      /* up to two lines for dramatic headings */
-
-    font-size: clamp(var(--fit-min), 6vw, var(--title-size, 3rem));
-    max-width: 32ch;     /* keep readability; tweak 28–36ch to taste */
-  }
-}
-
 .postTitle[data-fit="ready"] {
   opacity: 1;
   transition: opacity 120ms ease-out;
