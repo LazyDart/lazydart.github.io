@@ -3,7 +3,9 @@
   font-size: var(--title-size, 1.6rem);
   line-height: 1.1;
   text-wrap: balance;
-  overflow-wrap: anywhere;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
 
   /* start hidden to avoid pop */
   opacity: 0;
@@ -14,6 +16,16 @@
   text-align: center;
   margin-inline: auto;
   display: block;
+}
+@media (min-width: 768px) {
+  .postTitle {
+    --fit-min: 8rem;
+    --fit-max: 15rem;     /* go large on desktop */
+    --fit-lines: 2;      /* up to two lines for dramatic headings */
+
+    font-size: clamp(var(--fit-min), 6vw, var(--title-size, 3rem));
+    max-width: 32ch;     /* keep readability; tweak 28–36ch to taste */
+  }
 }
 
 .postTitle[data-fit="ready"] {

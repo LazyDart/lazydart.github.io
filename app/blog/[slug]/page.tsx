@@ -22,9 +22,6 @@ export default async function BlogPost({ params }: {params: any }) {
         <FitTitle 
             text={post.meta.title}
             className={styles.postTitle}
-            min={10}
-            max={100}
-            lines={1}
         />
         <p className={styles.date}>{post.meta.date}</p>
         <article className={`stack ${styles.article}`}>
