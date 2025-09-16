@@ -1,6 +1,7 @@
 /* page.module.css */
 .testdiv {
   width: min(92vw, 1200px);
+  height: min(80vh);
   aspect-ratio: 3 / 2;
   overflow: hidden;
 }
