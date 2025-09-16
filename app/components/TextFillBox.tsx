@@ -111,9 +111,20 @@ export default function TextFillBox({
     <div
       ref={ref}
       className={className}
-      style={{ width: "100%", height: "100%", overflow: "hidden" }}
-      data-fit="initial"
+      style={{
+        // TextFill needs measurable width & height
+        // You can override these via className or parent layout
+        width: "100%",
+        height: "100%",
+        overflow: "hidden",
+        lineHeight: 1, // play nicely with resizing
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        textAlign: "center"
+      }}
     >
+      {/* Default expected inner tag is <span>; you can change via `innerTag` option */}
       <span>{text}</span>
     </div>
   );
