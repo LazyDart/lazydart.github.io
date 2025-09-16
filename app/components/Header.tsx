@@ -7,10 +7,9 @@ export function Header() {
     <header className="site-nav">
       <Container>
         <nav style={{ display: "flex", alignItems: "center", gap: "1rem", height: 64 }}>
-          <Link href="/" className="brand">My&nbsp;App</Link>
+          <Link href="/" className="brand">Miłosz&nbsp;Tkacz</Link>
           <div style={{ marginLeft: "auto", display: "flex", gap: "1rem" }}>
             <Link href="/blog">Blog</Link>
-            <Link href="/about">About</Link>
           </div>
         </nav>
       </Container>

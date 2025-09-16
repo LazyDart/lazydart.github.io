@@ -111,6 +111,7 @@ export default function TextFillBox({
     <div
       ref={ref}
       className={className}
+      data-fit="initial"             // ⟵ start hidden before JS runs
       style={{
         // TextFill needs measurable width & height
         // You can override these via className or parent layout

@@ -16,3 +16,7 @@
   transition: visibility 0s, opacity 120ms ease-out;
   opacity: 1;
 }
+
+.titlefill {
+    font-family: var(--font-archivob);
+}

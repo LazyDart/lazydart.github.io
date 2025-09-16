@@ -1,5 +1,5 @@
 ---
-title: "Hello World 2"
+title: "HELLO WORLD 2"
 date: "2025-08-29"
 excerpt: "This is my second test post rendered via MDX!"
 theme: XD
