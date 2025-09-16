@@ -1,6 +1,10 @@
+// app/blog/[slug]/page.tsx
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
 import { MDXRemote } from "next-mdx-remote/rsc";
-import styles from "./page.module.css"
+import { Container } from "@/app/components/Container";
+import { Section } from "@/app/components/Section";
+import styles from "./page.module.css";
+
 
 export async function generateStaticParams() {
     const posts = getAllPosts();
@@ -12,13 +16,15 @@ export default async function BlogPost({ params }: {params: any }) {
     const post = getPostBySlug(slug);
 
     return (
-    <main>
-      <h1 className={styles.title}>{post.meta.title}</h1>
-      <p className={styles.date}>{post.meta.date}</p>
-      <article className={`${styles.article} ${post.meta.theme === "psychedelic" ? styles.psychedelic : ""}`}>
-        {/* Render markdown/MDX content as React components */}
-        <MDXRemote source={post.content} />
-      </article>
-    </main>
+    <Section>
+      <Container>
+        <h1 className={styles.title}>{post.meta.title}</h1>
+        <p className={styles.date}>{post.meta.date}</p>
+        <article className={`stack ${styles.article}`}>
+            {/* Render markdown/MDX content as React components */}
+            <MDXRemote source={post.content} />
+        </article>
+      </Container>
+    </Section>
   );
 }

@@ -1,18 +1,4 @@
-.title {
-  font-size: 2rem;
-  color: darkred;
-}
-
-.date {
-  font-style: italic;
-  color: gray;
-}
-
-.article {
-  line-height: 1.6;
-}
-
-.psychedelic {
-  background: linear-gradient(90deg, orange, pink, purple);
-  color: white;
-}
+/* app/blog/[slug]/page.module.css */
+.article { --stack-gap: 1rem; }
+.title { font-size: clamp(1.75rem, 2.5vw + 1rem, 2.5rem); }
+.meta { color: var(--muted); }

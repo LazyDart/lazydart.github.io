@@ -1,19 +1,24 @@
-import type { Metadata } from 'next';
-import './globals.css';
+// app/layout.tsx
+import type { Metadata } from "next";
+import "./globals.css";
+import { Header } from "@/app/components/Header";
+import { Footer } from "@/app/components/Footer";
 
 export const metadata: Metadata = {
-  title: 'Next.js on GitHub Pages',
-  description: 'Deploy your static Next.js site to GitHub Pages.',
+  title: "My App",
+  description: "A tidy Next.js starter layout",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="en" className="theme">
+      <body>
+        <Header />
+        <main>
+          {children}
+        </main>
+        <Footer />
+      </body>
     </html>
   );
 }
