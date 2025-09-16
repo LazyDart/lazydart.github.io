@@ -1,12 +1,18 @@
-/* app/blog/[slug]/page.module.css */
+/* page.module.css */
 .testdiv {
-    height: 800px;
-    width: 1200px;
+  width: min(92vw, 1200px);
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
 }
-.postTitle[data-fit="ready"] {
+
+/* start hidden, reveal when ready */
+.testdiv [data-fit="initial"],
+.testdiv [data-fit="pending"] {
+  visibility: hidden;
+}
+
+.testdiv [data-fit="ready"] {
+  visibility: visible;
+  transition: visibility 0s, opacity 120ms ease-out;
   opacity: 1;
-  transition: opacity 120ms ease-out;
 }
-.article { --stack-gap: 1rem; }
-.title { font-size: clamp(8rem, 12vw + 1rem, 10rem); }
-.meta { color: var(--muted); }

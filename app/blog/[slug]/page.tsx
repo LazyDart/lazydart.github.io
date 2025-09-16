@@ -19,11 +19,12 @@ export default async function BlogPost({ params }: {params: any }) {
     return (
     <Section>
       <Container>
-        <div className={styles.testdiv}>
-         <TextFillBox
-          text={post.meta.title}
-          maxFontPixels={0}   // try 0 for “as big as possible”
-        />
+        <div className={styles.testdiv} key={slug}>
+          <TextFillBox
+            text={post.meta.title}
+            maxFontPixels={0}
+            deps={[post.meta.title]} // re-run when the title changes
+          />
         </div>
         <p className={styles.date}>{post.meta.date}</p>
         <article className={`stack ${styles.article}`}>
