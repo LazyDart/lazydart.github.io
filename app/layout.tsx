@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "A tidy Next.js starter layout",
 };
 
-const archivoBlack = Archivo_Black({weight: "400", variable: "--font-archivob"});
+const archivoBlack = Archivo_Black({weight: "400", variable: "--font-archivob", subsets: ["latin"]});
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
