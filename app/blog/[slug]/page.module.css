@@ -1,4 +1,25 @@
 /* app/blog/[slug]/page.module.css */
+.postTitle {
+  font-size: var(--title-size, 1.6rem);
+  line-height: 1.1;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+
+  /* start hidden to avoid pop */
+  opacity: 0;
+
+  /* (optional) reserve space to reduce layout shift while hidden */
+  min-block-size: calc(var(--lines, 2) * 1.1 * var(--title-size, 1.6rem));
+
+  text-align: center;
+  margin-inline: auto;
+  display: block;
+}
+
+.postTitle[data-fit="ready"] {
+  opacity: 1;
+  transition: opacity 120ms ease-out;
+}
 .article { --stack-gap: 1rem; }
-.title { font-size: clamp(1.75rem, 2.5vw + 1rem, 2.5rem); }
+.title { font-size: clamp(8rem, 12vw + 1rem, 10rem); }
 .meta { color: var(--muted); }

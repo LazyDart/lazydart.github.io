@@ -18,9 +18,9 @@ p, h1, h2, h3, h4, h5, h6 { overflow-wrap: anywhere; }
   --gutter-lg: 2rem;        /* side padding ≥768px */
   --radius: 12px;
 
-  --bg: #0b0c10;
+  --bg: #0f0b10;
   --panel: #111317;
-  --text: #e8eaed;
+  --text: #edede8;
   --muted: #a1a6ad;
   --brand: #7c5cff;
   --brand-ink: #e9e4ff;

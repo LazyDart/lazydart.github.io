@@ -3,6 +3,7 @@ import { getPostBySlug, getAllPosts } from "@/lib/posts";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import { Container } from "@/app/components/Container";
 import { Section } from "@/app/components/Section";
+import { FitTitle } from "@/app/components/FitTitle";
 import styles from "./page.module.css";
 
 
@@ -18,7 +19,13 @@ export default async function BlogPost({ params }: {params: any }) {
     return (
     <Section>
       <Container>
-        <h1 className={styles.title}>{post.meta.title}</h1>
+        <FitTitle 
+            text={post.meta.title}
+            className={styles.postTitle}
+            min={10}
+            max={100}
+            lines={1}
+        />
         <p className={styles.date}>{post.meta.date}</p>
         <article className={`stack ${styles.article}`}>
             {/* Render markdown/MDX content as React components */}
