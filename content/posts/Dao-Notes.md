@@ -70,5 +70,5 @@ Nie jesteśmy dłużej skazani na odgrywanie roli w oparciu o narracje na temat 
 Będąc świadom tej rozdzielności, możemy wypracować w sobie zdolność do tego, aby w każdej kolejnej chwili dokonywać wyboru: czy dalej chcę odgrywać tę rolę, czy nie? 
 Dystans i niejednoznaczność naszej relacji z rolami staje się w ten sposób źródłem wolności.
 Dodatkowo, gdy dojdzie do utraty możliwości odegrania pewnej roli możemy stać się odporni na wynikające z tego cierpienie.
-Alternatywnie, możemy wybrać aby cierpieć, co w pewnym sensie, może nadać utracie dodatkowej głębi.
+Alternatywnie, możemy wybrać aby cierpieć, co może nadać utracie dodatkowej głębi doświadczenia.
 
