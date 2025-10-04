@@ -16,7 +16,8 @@ a tutaj jest on zaprezentowany jako dialog z konfucjanizmem w kwestii cywilizacj
 
 Nie rozwodząc się nad całokształtem, chciałbym przytoczyć jeden fragment, który uderzył mnie swoją wnikliwością.
 Generalnie skaleczę oryginał swoją parafrazą, ale mam nadzieję, że zachowam rdzeń pierwotnego sensu.
-Autor przytacza fragment z jednej daoistycznej pracy: Jeden człowiek rozmawia z ministrem (byłym?):
+
+Autor przytacza fragment z jednej daoistycznej pracy: Jeden człowiek rozmawia z ministrem (byłym?).
 "Po raz trzeci dostajesz posadę ministra i nie wydajesz zbyt podekscytowany tym faktem, następnie tracisz tę pracę i nie widać po tobie zawodu.
 Jak działa twój umysł?". 
 Drugi mu odpowiada: "Jeśli w całym tym zdarzeniu zaszczyt dotyczy posady, to nic ona nie traci na tym że to nie ja ją sprawuję. 
@@ -29,16 +30,19 @@ To kim on jest, a to czym jest odgrywana rola, są zupełnie niezależne.
 Cały ten przekaz idealnie łączy się z filozofią głoszoną przez Hans-Georg Moeller'a - autora wykładu.
 Wielokrotnie w swoich materiałach przytacza on koncepcję "Genuine Pretending", czyli szczerego udawania.
 Na tyle, na ile rozumiem tę teorię, to odnosi się ona do uświadomienia sobie, że w rzeczywistości wszyscy ludzie "odgrywają" (play) pewne role.
+
 Przykładem takiej roli może być rola ojca, programisty, nauczyciela, przyjaciela, brata lub też kryminalisty i polityka.
 Jedna osoba w trakcie swojego życia odgrywa wiele ról, aby skutecznie funkcjonować w społeczeństwie jest ona zmuszona do zmiany odgrywanej roli wielokrotnie w ciągu jednego dnia.
 Te zmiany zazwyczaj następują w sposób automatyczny i nieuświadomiony. 
 Ciągłość doświadczenia i to, jak naturalnym zjawiskiem jest odgrywanie ról, sprawia, że z jednej strony nie dostrzegamy momentów przejścia, a z drugiej zaczynamy utożsamiać sumę sprawowanych ról z tym co je łączy, czyli ze świadomym doświadczeniem - nami samymi.
+
 Jak widać, zrównuję ze sobą subiektywną świadomość z koncepcją "self", "ja", swoistości itp. 
 Do tego tematu może wrócę przy innej okazji.
 
 Faktem wartym zauważenia jest to, że pewne role wykluczają się ze sobą. 
 Moeller podkreśla to, przytaczając przykład: "Wyobraźmy sobie kogoś kto sprawuje role gracza futbolu oraz profesora w swoim życiu. Gdyby ten człowiek odgrywał rolę profesora w tym samym czasie kiedy jest na boisku to byłby beznadziejnym futbolistom."
 Cechy, które sprawiają że człowiek jest skuteczny w odgrywaniu roli profesora np. profesjonalizm, spokój, refleksyjność, na boisku mogą utrudnić efektywną grę.
+
 W obliczu tego zjawiska nasuwa się pewne spostrzeżenie - Odgrywane role nie są fundamentalną częścią tego kim jesteśmy.
 Zamiast tego można o nich myśleć trochę jak o zestawie ubrań, które zakładamy na siebie. 
 Nie przychodzimy na ślub ubrani na sportowo, ani nie ubieramy się w lato jak na zimę.
@@ -58,6 +62,7 @@ Ich charakter jest przypadkowy i podyktowany okolicznościmi życia społecznego
 Inna, dużo bardziej znana przypowiastka taoistyczna daje nam wgląd w przypadkowość naszej kondycji: "mędrcowi przyśnił się motyl. Po przebudzeniu zaczął się zastanawiać czy motyl przyśnił się jemu czy to motylowi śni się, że jest Zhuangzi."
 Poza samym faktem bycia świadomym, nasze możliwości poznania tego kim jesteśmy są ograniczone. 
 Możliwość konstruowania narracji na temat własnego życia oraz sprawowanych w nim ról jest wynikiem ciągłości, harmoniczności oraz istotnej przewidywalności naszej egzystencji.
+
 Ta ciągłość bywa przerywana, np. w trakcie snu lub utraty pamięci. 
 Świadczy to o tym, że nie jest to fundamentalna właściwość świadomości, a raczej przypadek, z którym zaczęliśmy się utożsamiać.
 Przypadkowo nasze doświadczenie jest wystarczająco ciągłe, aby możliwym było wykorzystanie pamięci do skonstruowania narracji na temat siebie.
@@ -67,6 +72,7 @@ Wróćmy raz jeszcze do koncepcji szczerego udawania i tego jaką przewagę nam 
 Świadomość rozdzielności między nami samymi a naszymi rolami pozwala nam na uzyskanie pewnej elastyczności w naszym życiu.
 Tak samo jak (częściowo) kontrolujemy jakie ubranie możemy założyć danego dnia, tak samo możemy wybierać to jaką rolę oraz w jaki sposób postanowy odegrać.
 Nie jesteśmy dłużej skazani na odgrywanie roli w oparciu o narracje na temat dotychczasowego życia.
+
 Będąc świadom tej rozdzielności, możemy wypracować w sobie zdolność do tego, aby w każdej kolejnej chwili dokonywać wyboru: czy dalej chcę odgrywać tę rolę, czy nie? 
 Dystans i niejednoznaczność naszej relacji z rolami staje się w ten sposób źródłem wolności.
 Dodatkowo, gdy dojdzie do utraty możliwości odegrania pewnej roli możemy stać się odporni na wynikające z tego cierpienie.
