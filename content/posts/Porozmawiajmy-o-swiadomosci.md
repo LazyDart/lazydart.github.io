@@ -49,7 +49,7 @@ Bo nie wszyscy widzą świat tak jak ty. Ba! Większość widzi go inaczej.
 
 Czasem są to drobne różnice: 
 ```
-	 — "Dla mniej to jest czerwone."
+	 — "Dla mnie to jest czerwone."
 	 — "A dla mnie pomarańczowe!"
 ```
 A czasem duże:
