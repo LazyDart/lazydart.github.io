@@ -3,6 +3,7 @@ title: "POROZMAWIAJMY O ŚWIADOMOŚCI!"
 date: "2025-11-15"
 excerpt: "Porozawiajmy o świadomości"
 ---
+
 Rozmawiamy, aby dzielić się informacjami. 
 Częściej niż rzadziej, chcemy zakomunikować coś, co jest nowością dla naszego rozmówcy. 
 Nie rozmawiamy o tym, że po nocy następuje dzień, ani o tym, że po deszczu wszędzie jest mokro.
@@ -47,18 +48,18 @@ Jest tu tak wiele do odkrycia!
 Bo nie wszyscy widzą świat tak jak ty. Ba! Większość widzi go inaczej.
 
 Czasem są to drobne różnice: 
-
+```
 	 — "Dla mniej to jest czerwone."
 	 — "A dla mnie pomarańczowe!"
-
+```
 A czasem duże:
-
+```
 	— Kiedy myślę w głowie to słyszę potok słów.
 	— Serio?! U mnie nigdy nie ma słów, widzę tylko obrazy!
 	— A ja, nie słyszę, ani nie widzę.
 	— To jak ty w ogóle myślisz?!
 	— Po prostu myślę, to dzieje się samo, nie muszę tego widzieć ani słyszeć.
-
+```
 Czy to nie jest zaskakujące?
 Dwójka ludzi może siedzieć w tym samym pokoju, prowadzić tę samą rozmowę, a jednak cały ich świat może być zupełnie czymś innym.
 Inne fragmenty doświadczenia będą stać na ich pierwszym miejscu, jedni będą tu i teraz odbierać świat zmysłami, inni będą wszystko widzieć przez zasłonę myśli; idee i koncepty.
