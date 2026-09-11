@@ -6,10 +6,10 @@ export function Header() {
   return (
     <header className="site-nav">
       <Container>
-        <nav style={{ display: "flex", alignItems: "center", gap: "1rem", height: 64 }}>
-          <Link href="/" className="brand">Miłosz&nbsp;Tkacz</Link>
-          <div style={{ marginLeft: "auto", display: "flex", gap: "1rem" }}>
-            <Link href="/blog">Blog</Link>
+        <nav style={{ display: "flex", alignItems: "center", gap: "1.5rem", height: 64 }}>
+          <Link href="/" className="brand">MIŁOSZ TKACZ</Link>
+          <div style={{ marginLeft: "auto", display: "flex", gap: "1.5rem" }}>
+            <Link href="/blog">BLOG</Link>
           </div>
         </nav>
       </Container>

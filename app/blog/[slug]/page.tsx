@@ -27,8 +27,9 @@ export default async function BlogPost({ params }: {params: any }) {
             className={styles.titlefill}
           />
         </div>
+        <hr className={styles.rule} />
         <p className={styles.date}>{post.meta.date}</p>
-        <article className={`stack ${styles.article}`}>
+        <article className={`stack ${styles.article}`} style={{ ["--stack-gap" as any]: "1.25rem", marginTop: "1.5rem" }}>
             {/* Render markdown/MDX content as React components */}
             <MDXRemote source={post.content} />
         </article>
