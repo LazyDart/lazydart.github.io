@@ -84,7 +84,7 @@ M: Tak, to pomogło. W każdym razie, po prostu lubię wkurzyć się czasem na 
 Terapeutka: I przestał sobie Pan dawać radę z natłokiem pracy?
 
 M: Trochę tak, ale też stało się coś więcej. Wróćmy do tej współpracowniczki.
-Otóż, ona od początku była dosyć otwarta z tym, że korzysta z AI. Mówiła, że odpowiednio wykorzystane przestaje popełniać błędy, oraz że należy po prostu bardzo dokładnie formułować polecenia. Nie będę Pani zarzucać żargonem, ale oni nazywali to "Spec-driven design". Że piszesz dokładnie wymagania czyli "specki", a potem AI musi się tych wymagań pilnować. W każdym razie, bardzo szybko dogadała się z szefem podczas swoich akcji sprzedażowych i bardzo szybko propagować korzystanie z AI w całej firmie. Robili na ten temat spotaknia, rozsyłali maile. Wprowadzali nowe narzędzia i standardy.
+Otóż, ona od początku była dosyć otwarta z tym, że korzysta z AI. Mówiła, że odpowiednio wykorzystane przestaje popełniać błędy, oraz że należy po prostu bardzo dokładnie formułować polecenia. Nie będę Pani zarzucać żargonem, ale oni nazywali to "Spec-driven design". Że piszesz dokładnie wymagania czyli "specki", a potem AI musi się tych wymagań pilnować. W każdym razie, bardzo szybko dogadała się z szefem podczas swoich akcji sprzedażowych i bardzo szybko zaczęli propagować korzystanie z AI w całej firmie. Robili na ten temat spotaknia, rozsyłali maile. Wprowadzali nowe narzędzia i standardy.
 
 Terapeutka: I zgaduję, że nie podobało się to Panu?
 
